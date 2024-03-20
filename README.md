@@ -1,4 +1,4 @@
-This repository contains a fully functional e-commerce website for selling t-shirts, built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Users can browse a catalog of t-shirts, add items to their cart, and complete secure purchases.
+Developed a fully functional e-commerce website for selling t-shirts, built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Users can browse a catalog of t-shirts, add items to their cart, and complete secure purchases.
 
 
 Features:
