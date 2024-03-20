@@ -3,17 +3,17 @@ This repository contains a fully functional e-commerce website for selling t-shi
 
 Features:
 
-Product Management: Add, edit, and delete t-shirt products with details like name, description, images, sizes, and prices.
+1. Product Management: Add, edit, and delete t-shirt products with details like name, description, images, sizes, and prices.
 
-User Accounts: Create user accounts for registration and login, allowing for personalized experiences.
+2. User Accounts: Create user accounts for registration and login, allowing for personalized experiences.
 
-Shopping Cart: Add and remove t-shirts from the shopping cart, view the total price, and manage quantities.
+3. Shopping Cart: Add and remove t-shirts from the shopping cart, view the total price, and manage quantities.
 
-Checkout Process: Secure checkout with credit card processing (integration details depend on chosen payment provider).
+4. Checkout Process: Secure checkout with credit card processing (integration details depend on chosen payment provider).
 
-Order Management: Track and manage user orders from the admin panel.
+5. Order Management: Track and manage user orders from the admin panel.
 
-User Authentication and Authorization with JWT (JSON Web Token) for secure access and authorization levels.
+6. User Authentication and Authorization with JWT (JSON Web Token) for secure access and authorization levels.
 
 
 Technologies:
